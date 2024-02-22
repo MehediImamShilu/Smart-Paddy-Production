@@ -1,0 +1,5 @@
+ObjectID,Shape,GridCode,Shape_Length,Shape_Area,Area_in_Hectares,Area_in_Percent,Soil_Moisture,Year,Cultivated_Area_in_Hectares,Production_in_Metric_Tons
+1,Polygon,1,112.494012,576.342773,0.057634,2.4e-05,Very Dry,2017,,
+2,Polygon,2,8342086.751048,310871285.277927,31087.13,12.76498,Dry,2017,,
+3,Polygon,3,17286852.991248,1584651087.97008,158465.1,65.06888,Wet,2017,38824.0,103737.0
+4,Polygon,4,8910921.089225,539821156.216021,53982.12,22.16611,Very Wet,2017,,
